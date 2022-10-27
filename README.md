@@ -9,6 +9,7 @@ This analysis takes a look at Kickstarter campaigns under the plays subcategory.
 
 ### Analysis of Outcomes Based on Launch Date
 The first step in analyzing outcomes based on launch date was to create a pivot table using parent category and years as filters. I placed outcomes in the columns section, date created in rows, and outcomes into the values section. I needed to group date created into months so that it would display months instead of years. I then created a line graph based on this pivot chart, thereby generating a visualization of the correlation between the two variables being assessed.
+![pivot chart values](Screenshot6.png)
 
 ### Analysis of Outcomes Based on Goals
 For this analysis I first needed to count the number of successful, failed, and canceled Kickstarter campaigns depending on their intitial funding goals within the plays subcategory. This meant I needed to create a series of ranges to group projects based on their goal amount. 
